@@ -1,0 +1,26 @@
+Kidney International, Vol. 67 (2005), pp. 685–690 
+
+Decreased renal function among adults with a history of nephrolithiasis: A study of NHANES III 
+
+DANIEL L. GILLEN, ELAINE M. WORCESTER, and FREDRIC L. COE Department of Health Studies and Department of Medicine, University of Chicago, Chicago, Illinois 
+
+Decreased renal function among adults with a history of nephrolithiasis: A study of NHANES III. 
+
+Background. Although intuitively appealing, the hypothesis that nephrolithiasis is associated with decreased renal function has not thoroughly been investigated. Because the prevalence of nephrolithiasis and chronic renal disease in westernized so- cieties has risen over the past three decades, we sought to de- termine if persons with a history of kidney stones have lower renal function relative to nonstone formers. Methods. We used data from the Third National Health and Nutrition Examination Survey (NHANES III) to compare es- timated glomerular ﬁltration rate (GFR) between persons over age 30 with and without a history of kidney stones. In total, 876 persons with a history of stones, and 14,129 persons without stones were available for analysis. Results. We observed that the association between history of stones (P= and estimated GFR depends on body mass index (BMI) 0.004). After adjustment for potential confounding ≥27 factors, mean estimated GFR in stone formers with a BMI kg/m2 was 3.4 mL/min/1.73 −5.8, −1.1) m2 lower = than that of similar nonstone for- mers (95% CI (P 0.005). No difference was found among persons with a BMI <27 kg/m2. The probability of an overweight stone former having an estimated GFR between 30 and 59 mL/min/1.73 m2 relative to a GFR above 90 mL/min/1.73 m2 was nearly twice = that of a similar nonstone former [relative risk ratio (RRR) 1.87, 95% CI 1.06, 3.30]. Conclusion. Among overweight persons, nephrolithiasis may not merely be a disease of stones, but may also reduce kidney function. Further work in alternate study samples is needed to validate this ﬁnding and determine the mechanisms responsible. 
+
+The impact of chronic renal insufﬁciency (CRI) on public health has been well documented. The prevalence of elevated serum creatinine (>1.5 mg/dL in men and >1.4 mg/dL in women) in the Framingham Heart Study was estimated at 8.0% for men and 8.9% for women [1], while more than 300,000 persons in the United States have end-stage renal disease (ESRD) [2]. Alarmingly, the 
+
+Key words: nephrolithiasis, kidney stones, glomerular ﬁltration rate. 
+
+Received for publication April 16, 2004 and in revised form July 2, 2004, and August 23, 2004 Accepted for publication September 1, 2003 
+
+C? 2005 by the International Society of Nephrology 
+
+incidence of CRI is rising throughout the world [3]. With respect to patient outcomes, CRI patients suffer from an increased risk of mortality and cardiovascular disease rel- ative to the general population [4, 5]. Given the number of persons at risk for CRI and the prognosis associated with the disease, identiﬁcation of risk factors for the de- velopment of renal disease has become a top priority to researchers in the nephrology community. As the incidence of CRI has risen over the past three decades, the frequency of nephrolithiasis in westernized societies has also increased. Recently, the prevalence of nephrolithiasis among 20- to 74-year-old patients in the United States was estimated to be 5.2% during the years 1988 to 1994, compared to 3.8% from 1976 to 1980 [6]. While much is known about the pathogenesis and treat- ment of nephrolithiasis [7], the clinical consequences of stone disease remain relatively unidentiﬁed. In particu- lar, little is known about the effect of stone disease on renal function. Our hypothesis is that repeated transient obstruction from stone passage, treatments such as ex- tracorporeal shock wave lithotripsy (ESWL), and possi- bly mineral deposits in the renal medulla may damage nephrons and reduce renal function [8–10]. The current study uses national health survey data collected during the years 1988 to 1994 to compare renal function, as measured by estimated glomerular ﬁltration rate (GFR), between persons with and without a history of nephrolithiasis. We hypothesized that stone formers would have lower estimated GFR when compared to sim- ilar nonstone formers. 
+
+METHODS Study population 
+
+Data from the NHANES III was used for this anal- ysis. A detailed description of the methods used in the survey is available elsewhere [11]. Brieﬂy, NHANES III was one of several periodic surveys conducted by the Na- tional Center for Health Statistics. The survey, conducted during 1988 to 1994, was designed to provide national es- timates of health and nutritional status in the civilian non- institutionalized United States population aged 2 months 
+
+685 
+
